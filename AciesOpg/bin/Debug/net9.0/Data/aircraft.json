@@ -1,0 +1,35 @@
+[
+  {
+    "Id": "b1",
+    "Type": "Passagerfly",
+    "Name": "Boeing 747-8",
+    "EmptyWeightKg": 223850,
+    "MaxTakeoffWeightKg": 447700,
+    "FuelEfficiency": 0.1,
+    "MaxSpeedKmh": 1062,
+    "RequiredCrew": 16,
+    "FuelCapacityLiters": 238610
+  },
+  {
+    "Id": "b2",
+    "Type": "Jetfly",
+    "Name": "MiG 15",
+    "EmptyWeightKg": 3680,
+    "MaxTakeoffWeightKg": 5112,
+    "FuelEfficiency": 0.4,
+    "MaxSpeedKmh": 1050,
+    "RequiredCrew": 1,
+    "FuelCapacityLiters": 1420
+  },
+  {
+    "Id": "b3",
+    "Type": "Fighter",
+    "Name": "Yak-9U",
+    "EmptyWeightKg": 2512,
+    "MaxTakeoffWeightKg": 3204,
+    "FuelEfficiency": 1.5,
+    "MaxSpeedKmh": 690,
+    "RequiredCrew": 1,
+    "FuelCapacityLiters": 444
+  }
+]

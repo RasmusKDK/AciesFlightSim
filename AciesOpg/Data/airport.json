@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "a1",
+    "Name": "Copenhagen Kastrup Airport",
+    "Latitude": 55.6179008,
+    "Longitude": 12.6560001
+  },
+  {
+    "Id": "a2",
+    "Name": "Billund Airport",
+    "Latitude": 55.7402992,
+    "Longitude": 9.1517801
+  },
+  {
+    "Id": "a3",
+    "Name": "Frankfurt Am Main Airport",
+    "Latitude": 50.033333,
+    "Longitude": 8.570556
+  },
+  {
+    "Id": "a4",
+    "Name": "Berlin Brandenburg (U.C.) Airport",
+    "Latitude": 52.3628,
+    "Longitude": 13.5038
+  },
+  {
+    "Id": "a5",
+    "Name": "Sydney Kingsford Smith International Airport",
+    "Latitude": -33.9460983,
+    "Longitude": 151.177002
+  }
+]

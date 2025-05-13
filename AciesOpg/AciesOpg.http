@@ -1,0 +1,6 @@
+@AciesOpg_HostAddress = http://localhost:5140
+
+GET {{AciesOpg_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
